@@ -458,6 +458,7 @@ public class NewJFrame extends javax.swing.JFrame {
     {
         gameover=0;
         curr=~prev;
+        prev=curr;
         clicks=0;
         btn1.setText("");
         btn2.setText("");
