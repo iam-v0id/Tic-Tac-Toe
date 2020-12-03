@@ -476,6 +476,7 @@ public class NewJFrame extends javax.swing.JFrame {
     {
         newgame();
         lblxw.setText("0");
+        lblow.setText("0");
         lbltiew.setText("0");
     }
     private void btn1ActionPerformed(java.awt.event.ActionEvent evt) {                                     
